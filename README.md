@@ -1,3 +1,7 @@
+**Name - Hardik Ghoshal**
+**Email - hardik.ghoshal@mailbox.tu-dresden.de**
+**Matriculation Number - 5184856**
+
 ## Task 1
 
 ### Problem
