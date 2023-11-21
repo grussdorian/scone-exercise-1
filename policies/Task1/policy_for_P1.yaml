@@ -1,7 +1,8 @@
-name: exercise_1/$SESSION_P1
+name: $SESSION_EX1/$SESSION_P1
 version: "0.3"
 security:
   attestation:
+    mode: none
     tolerate: [debug-mode, hyperthreading, outdated-tcb]
     ignore_advisories: "*"
     one_time_password_shared_secret: $OTPSECRET

@@ -1,4 +1,4 @@
-name: exercise_1/$SESSION_V
+name: $SESSION_EX1/$SESSION_V
 version: "0.3"
 security:
   attestation:
